@@ -1,2 +1,2 @@
 # JSFundamentals
-Objectives:Working with linear data structures,defining functions,working with objects,regEx,processing and manipulating strings
+Here is my homework and labwork that I've done during the course. Problems are about: Conditional Statements and Loops, Data Types and Variables, Arrays, Functions, Objects, Classes, Regular Expressions
